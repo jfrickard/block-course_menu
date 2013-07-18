@@ -23,7 +23,3 @@
 .active_tree_node {
     font-weight: bold !important;
 }
-
-.block_navigation .block_tree p.tree_item {
-    padding-top: 1px;
-}
